@@ -1,1 +1,2 @@
 Demo text file.
+Second line of text.
